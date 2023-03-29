@@ -1,0 +1,4 @@
+- This Library is used to parse Long PDF files info invidual PDF PAGES
+- Input -> Place your file in files folder and put its page in index.js file, line # 3
+- Run script using `node index.js`
+- The output pdf files will be places in Output folder
